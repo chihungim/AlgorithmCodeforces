@@ -27,6 +27,7 @@ int main(int argc, char* argv[]) {
     cin >> n;
 
     std::string cmd;
+    
     for (int i = 0; i < n; i++) {
         cin >> cmd;
         if (strchr(cmd.c_str(), '+')) {
@@ -36,7 +37,8 @@ int main(int argc, char* argv[]) {
             x--;
         }
     }
+    
     cout << x << '\n';
-
+    
     return 0;
 }
