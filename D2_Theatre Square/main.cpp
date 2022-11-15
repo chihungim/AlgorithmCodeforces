@@ -14,5 +14,10 @@ using std::cin;
 using std::cout;
 
 int main(int argc, char* argv[]) {
-
+	double n, m, a;
+	cin >> n >> m >> a;
+	cout << std::fixed;
+	cout.precision(0);
+	cout << ceil(n / a) * ceil(m / a);
+	return 0;
 }
