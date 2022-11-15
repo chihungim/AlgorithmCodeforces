@@ -13,11 +13,10 @@
 using std::cin;
 using std::cout;
 
-// w를 입력 받은 후 짝수로 나뉠 수 있는지 확인 하는 문제 
-
 int main(int argc, char* argv[]) {
-    int w = 0;
-    cin >> w;
-    cout << (w % 2 == 0 && w > 2 ? "YES" : "NO");
-    return 0;
+	int n, m, a;
+	cin >> n >> m >> a;
+	int s = n * m;
+	int g = a * a;
+		
 }
