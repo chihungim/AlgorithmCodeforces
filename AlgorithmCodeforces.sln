@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "D3_String Task", "D3_String
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "D3_Boy or Girl", "D3_Boy or Girl\D3_Boy or Girl.vcxproj", "{F4BB665D-D778-4118-BB4B-66642FE9999A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "D5_Stones on the Table", "D5_Stones on the Table\D5_Stones on the Table.vcxproj", "{AABB7360-1D63-4D4B-9D7C-F411A1494E95}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -141,6 +143,14 @@ Global
 		{F4BB665D-D778-4118-BB4B-66642FE9999A}.Release|x64.Build.0 = Release|x64
 		{F4BB665D-D778-4118-BB4B-66642FE9999A}.Release|x86.ActiveCfg = Release|Win32
 		{F4BB665D-D778-4118-BB4B-66642FE9999A}.Release|x86.Build.0 = Release|Win32
+		{AABB7360-1D63-4D4B-9D7C-F411A1494E95}.Debug|x64.ActiveCfg = Debug|x64
+		{AABB7360-1D63-4D4B-9D7C-F411A1494E95}.Debug|x64.Build.0 = Debug|x64
+		{AABB7360-1D63-4D4B-9D7C-F411A1494E95}.Debug|x86.ActiveCfg = Debug|Win32
+		{AABB7360-1D63-4D4B-9D7C-F411A1494E95}.Debug|x86.Build.0 = Debug|Win32
+		{AABB7360-1D63-4D4B-9D7C-F411A1494E95}.Release|x64.ActiveCfg = Release|x64
+		{AABB7360-1D63-4D4B-9D7C-F411A1494E95}.Release|x64.Build.0 = Release|x64
+		{AABB7360-1D63-4D4B-9D7C-F411A1494E95}.Release|x86.ActiveCfg = Release|Win32
+		{AABB7360-1D63-4D4B-9D7C-F411A1494E95}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
